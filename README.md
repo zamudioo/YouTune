@@ -21,13 +21,15 @@ You can easily install the dependencies by executing the following command in yo
 pip install -r requirements.txt
 
 Make sure you have cloned or downloaded this repository to your local system before running the above command.
-#Usage
+
+# Usage
 Run the script youtune.py.
 Enter the YouTube URL of the video you want to download.
 Choose the output folder where you want to save the downloaded MP3 files.
 Click the "Start" button to initiate the download and metadata update process.
 
-#Notes
+# Notes
+
 This script assumes that the YouTube video contains music and uses MusicBrainz to fetch metadata based on the song title.
 It utilizes yt-dlp to download YouTube videos as MP3 files and ffmpeg for audio extraction.
 The GUI is built using Tkinter, a standard GUI toolkit for Python.
