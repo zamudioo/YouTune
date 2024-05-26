@@ -2,6 +2,10 @@
 
 This Python script provides a GUI application to download YouTube videos as MP3 files and update their metadata automatically. It utilizes the MusicBrainz API to fetch song details for the downloaded MP3 files.
 
+# Download 
+
+https://github.com/zamudioo/YouTune/releases
+
 ## Prerequisites
 
 Ensure you have the following dependencies installed:
