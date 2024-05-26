@@ -15,12 +15,13 @@ Ensure you have the following dependencies installed:
 
 Place the `ffmpeg` and `yt-dlp` binaries in the script's directory or specify their paths in the script.
 
-Installation
+#Installation
 You can easily install the dependencies by executing the following command in your terminal:
 
 pip install -r requirements.txt
 
 Make sure you have cloned or downloaded this repository to your local system before running the above command.
+#Usage
 Run the script youtune.py.
 Enter the YouTube URL of the video you want to download.
 Choose the output folder where you want to save the downloaded MP3 files.
