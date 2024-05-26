@@ -20,7 +20,7 @@ Ensure you have the following dependencies installed:
 
 Place the `ffmpeg` and `yt-dlp` binaries in the script's directory or specify their paths in the script.
 
-#Installation
+# Installation
 You can easily install the dependencies by executing the following command in your terminal:
 
 pip install -r requirements.txt
