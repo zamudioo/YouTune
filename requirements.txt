@@ -1,0 +1,4 @@
+mutagen==1.45.1
+musicbrainzngs==0.7.1
+ffmpeg-python
+yt-dlp
