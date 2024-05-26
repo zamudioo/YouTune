@@ -12,6 +12,7 @@ Ensure you have the following dependencies installed:
 - [MusicBrainzNGS](https://python-musicbrainzngs.readthedocs.io/en/v0.7.1/)
 - [FFmpeg](https://ffmpeg.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- i dont know whats wrong with ffmpeg but if its not in the same folder it doesnt work, so if anyone help me with that it would be great!
 
 Place the `ffmpeg` and `yt-dlp` binaries in the script's directory or specify their paths in the script.
 
